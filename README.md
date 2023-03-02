@@ -6,5 +6,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Install node modules with `npm i`
 To build react application use `npm run build`
 To run server use `npm run ssr`
-Open [http://localhost:3000](http://localhost:3005) to view it in the browser.
+Open [http://localhost:3005/product] to view it in the browser.
 
